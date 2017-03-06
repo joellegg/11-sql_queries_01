@@ -26,5 +26,6 @@ For each of the following exercises, provide the appropriate query. Everything f
 1. Using `MAX()` function, write a select statement to find the song with the longest duration. The result should display the song title and the duration.
 1. Modify the previous query to also display the title of the album.
 
+## ERD
 
 <img src="music_history_ERD.png">
